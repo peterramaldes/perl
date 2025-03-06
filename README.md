@@ -1,2 +1,1 @@
-# perl
-Learn Perl
+This repository holds some perl code, just for learning purpose.
